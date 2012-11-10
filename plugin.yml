@@ -1,0 +1,11 @@
+name: jsRobot
+main: com.elazary.jsRobot.jsRobot
+version: 1.0
+
+commands:
+  robot:
+    description: Get a robot
+    usage: /robot
+    permission: ''
+    permission-message: You don't have permission
+

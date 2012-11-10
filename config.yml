@@ -1,0 +1,12 @@
+creativeTime: 300
+currentQuestion: 0
+questions:
+  - Jim had 3 dimes and 7 pennies in his pocket. How much money does he have?
+  - You have 18 marbles but you gave your friend 9. Now how many marbles do you have?
+  - When I looked outside, I saw 12 legs. How many dogs were outside?
+  - If you were counting backwards by 2s starting at 28, how many numbers would you have said before you get to 12?
+answers:
+  - 37
+  - 9
+  - 3
+  - 9
